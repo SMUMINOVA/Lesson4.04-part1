@@ -31,6 +31,7 @@ namespace part1
                 }
             }
             Console.ReadKey();
+            
         }
         class Converter{
             public double amount {get;set;}
@@ -44,16 +45,16 @@ namespace part1
                 rub = Rub;
             } 
             public void toTjs(double converter, double sum){
-                System.Console.WriteLine($"in TJS: {sum*converter}"); 
+                System.Console.WriteLine($"{sum} = {sum*converter} TJS"); 
             }
             public void toUsd(double converter, double sum){
-                System.Console.WriteLine($"in TJS: {sum/converter}"); 
+                System.Console.WriteLine($"{sum} TJS = {sum/converter} USD"); 
             }
             public void toEur(double converter, double sum){
-                System.Console.WriteLine($"in TJS: {sum/converter}"); 
+                System.Console.WriteLine($"{sum} = {sum/converter} EUR"); 
             }
             public void toRub(double converter, double sum){
-                System.Console.WriteLine($"in TJS: {sum/converter}"); 
+                System.Console.WriteLine($"{sum} = {sum/converter} RUB"); 
             }
         }
     }
