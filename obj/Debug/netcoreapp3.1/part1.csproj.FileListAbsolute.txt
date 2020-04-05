@@ -1,0 +1,13 @@
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1.deps.json
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1.runtimeconfig.json
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1.runtimeconfig.dev.json
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1.dll
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/bin/Debug/netcoreapp3.1/part1.pdb
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.csprojAssemblyReference.cache
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.csproj.CoreCompileInputs.cache
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.AssemblyInfoInputs.cache
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.AssemblyInfo.cs
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.dll
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.pdb
+/home/sobira/Рабочий стол/c#/HomeWork-4.04.20/part1/obj/Debug/netcoreapp3.1/part1.genruntimeconfig.cache

@@ -20,6 +20,17 @@ namespace part1
                 case 3: firstSum.toTjs(firstSum.rub, firstSum.amount); break;
                 }
             }
+            else {
+                System.Console.WriteLine("To which currancy do you want to convert your amount?");
+                System.Console.WriteLine("1. USD\n2. EUR\n3. RUB");
+                choice = int.Parse(Console.ReadLine());
+                switch(choice){
+                case 1: firstSum.toUsd(firstSum.usd, firstSum.amount); break;
+                case 2: firstSum.toEur(firstSum.eur, firstSum.amount); break;
+                case 3: firstSum.toRub(firstSum.rub, firstSum.amount); break;
+                }
+            }
+            Console.ReadKey();
         }
         class Converter{
             public double amount {get;set;}
@@ -34,6 +45,15 @@ namespace part1
             } 
             public void toTjs(double converter, double sum){
                 System.Console.WriteLine($"in TJS: {sum*converter}"); 
+            }
+            public void toUsd(double converter, double sum){
+                System.Console.WriteLine($"in TJS: {sum/converter}"); 
+            }
+            public void toEur(double converter, double sum){
+                System.Console.WriteLine($"in TJS: {sum/converter}"); 
+            }
+            public void toRub(double converter, double sum){
+                System.Console.WriteLine($"in TJS: {sum/converter}"); 
             }
         }
     }
